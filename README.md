@@ -66,11 +66,11 @@
 
 <b>🏫 Training Program Projects</b><br/><br/>
 
-<a href="https://github.com/rangzu12/project_BookStore2">
+<a href="https://github.com/rangzu12/project_BookStore">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=project_BookStore" />
 </a>
 
-<a href="https://github.com/rangzu12/project_OpenData2">
+<a href="https://github.com/rangzu12/project_OpenData">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=project_OpenData" />
 </a>
 
