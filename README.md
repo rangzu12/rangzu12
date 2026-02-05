@@ -1,13 +1,10 @@
-<!--타이틀 부분-->
+<!-- 타이틀 -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=rangzu12&fontSize=90"
   />
 </p>
 
-
-
-<!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
@@ -40,21 +37,20 @@
 
 <br/><br/>
 
+<b>Mobile</b><br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
+<br/><br/>
+
 <b>Tools & Infra</b><br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode.dev-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</div>
-
-<br>
+<br/>
 
 <h3 align="center">📫 Contact 📫</h3>
 
@@ -65,4 +61,3 @@
     />
   </a>
 </div>
-
