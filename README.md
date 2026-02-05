@@ -52,6 +52,36 @@
 
 <br/>
 
+<h3 align="center">📌 Projects 📌</h3>
+
+<div align="center">
+
+<b>🎓 University Capstone Project</b><br/><br/>
+
+<a href="https://github.com/rangzu12/Capstone2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=Capstone2" />
+</a>
+
+<br/><br/>
+
+<b>🏫 Training Program Projects</b><br/><br/>
+
+<a href="https://github.com/rangzu12/project_BookStore2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=project_BookStore2" />
+</a>
+
+<a href="https://github.com/rangzu12/project_OpenData2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=project_OpenData2" />
+</a>
+
+<a href="https://github.com/rangzu12/Project5">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=Project5" />
+</a>
+
+</div>
+
+<br/>
+
 <h3 align="center">📫 Contact 📫</h3>
 
 <div align="center">
