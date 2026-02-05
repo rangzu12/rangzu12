@@ -67,15 +67,15 @@
 <b>🏫 Training Program Projects</b><br/><br/>
 
 <a href="https://github.com/rangzu12/project_BookStore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=project_BookStore" />
+  <img src="https://img.shields.io/badge/BookStore-⭐%20Training-orange?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/rangzu12/project_OpenData">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=project_OpenData" />
+  <img src="https://img.shields.io/badge/OpenData-⭐%20Training-green?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/rangzu12/Project5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=Project5" />
+  <img src="https://img.shields.io/badge/Project5-⭐%20Training-purple?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
