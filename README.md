@@ -67,15 +67,15 @@
 <b>🏫 Training Program Projects</b><br/>
 
 <a href="https://github.com/rangzu12/project_BookStore">
-  <img src="https://img.shields.io/badge/BookStore-⭐%20Training-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/BookStore⭐%20Training-orange?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/rangzu12/project_OpenData">
-  <img src="https://img.shields.io/badge/OpenData-⭐%20Training-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenData⭐%20Training-green?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/rangzu12/StockNews_Search">
-  <img src="https://img.shields.io/badge/StockNews_Search-⭐%20Training-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/StockNews_Search⭐%20Training-purple?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
