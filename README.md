@@ -59,7 +59,7 @@
 <b>🎓 University Capstone Project</b><br/><br/>
 
 <a href="https://github.com/rangzu12/Capstone2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rangzu12&repo=Capstone2" />
+  <img src="https://img.shields.io/badge/Capstone2-⭐%20University-blue?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
