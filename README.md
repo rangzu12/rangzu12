@@ -74,8 +74,8 @@
   <img src="https://img.shields.io/badge/OpenData-⭐%20Training-green?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/rangzu12/Project5">
-  <img src="https://img.shields.io/badge/Project5-⭐%20Training-purple?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/rangzu12/StockNews_Search">
+  <img src="https://img.shields.io/badge/StockNews_Search-⭐%20Training-purple?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
