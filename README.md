@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<b>🎓 University Capstone Project</b><br/><br/>
+<b>🎓 University Capstone Project</b><br/>
 
 <a href="https://github.com/rangzu12/Capstone2">
   <img src="https://img.shields.io/badge/Capstone2-⭐%20University-blue?style=for-the-badge&logo=github&logoColor=white" />
@@ -64,7 +64,7 @@
 
 <br/>
 
-<b>🏫 Training Program Projects</b><br/><br/>
+<b>🏫 Training Program Projects</b><br/>
 
 <a href="https://github.com/rangzu12/project_BookStore">
   <img src="https://img.shields.io/badge/BookStore-⭐%20Training-orange?style=for-the-badge&logo=github&logoColor=white" />
@@ -80,7 +80,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <h3 align="center">📫 Contact 📫</h3>
 
